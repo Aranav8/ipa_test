@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "757819699954",
+    "project_id": "ridobiko-8b7d6",
+    "storage_bucket": "ridobiko-8b7d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757819699954:android:1ef6530f4245d9b116d66b",
+        "android_client_info": {
+          "package_name": "com.ridobikocustomer.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1oPBuYlpAbsPRs6_kymHf4bkSl6Ejucw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

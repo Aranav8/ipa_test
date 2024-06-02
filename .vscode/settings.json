@@ -1,0 +1,22 @@
+{
+  "java.configuration.updateBuildConfiguration": "interactive",
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true,
+    "**/Thumbs.db": true,
+    "**/.classpath": true,
+    "**/.project": true,
+    "**/.settings": true,
+    "**/.factorypath": true,
+    ".flutter-plugins-dependencies": true,
+    ".vscode": true,
+    ".dart_tool": true,
+    ".flutter-plugins": true,
+    ".metadata": true,
+    "analysis_options.yaml": true
+  },
+  "explorerExclude.backup": {}
+}
